@@ -1,0 +1,17 @@
+navbar: 
+  title: Min titel
+  type: inverse
+  right:
+  - text: Home
+    href: index.html
+  - text: Content
+    href: content.html
+  - text: Labs
+    menu:
+    - text: Lab 1
+      href: lab01.html
+    - text: Lab 2
+      href: lab02.html
+output:
+  html_document:
+    theme: default

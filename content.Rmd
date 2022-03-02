@@ -1,0 +1,21 @@
+---
+title: "Content"
+output:   
+  html_document: 
+    df_print: paged
+---
+
+This is where you link to the other files, which are in a content folder in the main directory.
+\
+\
+Make sure the name of the folder does not have an underscore in it.\
+And, when you create and update the file, **you need to reknit it!**. 
+
+* [Content 1](content/file1.html)  
+* [Content 2](content/file2.html)  
+* [Content 3](content/file3.html)
+* [Content 4, pdf](content/shiny.pdf)
+* [Content 4, excel - does not open Excel!](content/excel.xlsx)
+\
+\
+De Rmd filer der ligger i websidens root mappe bliver automatisk **"knit'et"!** På denne webside er det content.Rmd, lab01.Rmd, lab02.Rmd og index.Rmd.
