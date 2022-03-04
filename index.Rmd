@@ -17,9 +17,9 @@ Dette er en simpel hjemmeside, der egner sig til at dele materiele (fx kursusmat
 
 ### Links
 + [rstudio4edu: R Markdown sites](https://rstudio4edu.github.io/rstudio4edu-book/intro-rmd.html) 
-+ [Building an R Markdown website](https://www.youtube.com/watch?v=DfNxk_cKL04) 
-+ [Sharing on Short Notice: How to Get Your Materials Online With R Markdown](https://www.rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/) 
-+ [Principles & Practice of Data Visualization, Alison Hill](https://apreshill.github.io/data-vis-labs-2018/index.html) 
++ [Building an R Markdown website, YouTube tutorial](https://www.youtube.com/watch?v=DfNxk_cKL04) 
++ [Sharing on Short Notice: How to Get Your Materials Online With R Markdown, RStudio tutorial - very useful!](https://www.rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/) 
++ [Principles & Practice of Data Visualization, Alison Hill = Example R Markdown site](https://apreshill.github.io/data-vis-labs-2018/index.html) 
 
 \
 \
@@ -29,8 +29,3 @@ You have 14 theme options:\
 default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti (use null for no theme)\
 \
 You can preview them all [here](https://rstudio4edu.github.io/rstudio4edu-book/rmd-themes.html#rmd-themes).
-
-
-
-
-
